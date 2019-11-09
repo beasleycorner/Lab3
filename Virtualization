@@ -1,0 +1,22 @@
+1. Leveraging Resources with Virtualization 
+ 
+
+   a. Create a heading in the lab readme.md file: Virtualization (Done here)
+ 
+
+   b. Explain the following: 
+ 
+
+      i. What types of problems are solved with virtualization? 
+       There four major types of virtualization: data; desktop; server; and operating system. It lets you 
+       create useful IT services using resources that are traditionally bound to hardware. It allows you to 
+       use a physical machine’s full capacity by distributing its capabilities among many users or environments.
+       Some of the types of problems you can have virtualization help with are VM sprawl, network congestion, 
+       server hardware failures, reduced VM performance.
+
+     ii. What role does hypervisor play in virtualization? 
+        A hypervisor is a process that separates a computer’s operating system and applications from the 
+        underlying physical hardware. Usually done as software although embedded hypervisors can be created 
+        for things like mobile devices.
+
+   c. You have two options for this portion of the module:
