@@ -7,7 +7,7 @@ and define the term open-source and identify its primary characteristics. Also t
 technology as well as co-ops, internships, certificates, certifications, industry association and student organization
 membership. 
 
-Software
+SOFTWARE
     
 
     i. Explain the roles of application, utility and operating system software.  
@@ -39,10 +39,10 @@ Software
            while clouds rely on the seperation. If the process stops here, it's not cloud computing—it's 
            virtualization.
 
-Virtualization
+VIRTUALIZATION
      See attachments for Creating Virtual machine
 
-Python
+PYTHON
       i. What is meant by the "pseudo-code nature of Python?" (Google "pseudo-code" to gain better insight) 
        Pseudocode is a method of planning which enables the programmer to plan without worrying about syntax.
  
@@ -53,23 +53,38 @@ Python
         The difference between an interpreted is in the process. An interpreter produces a result from a program, 
         and a compiler produces a program written in assembly language. 
         
-        See attachments:
+              Attachments:
                   Python 1
                   Python 2
 
-Career Exploration
-    Attachments  CollegeCentral
-    Attachment:  CollegeExploration 
+CAREER EXPLORATION
+             Attachments  CollegeCentral
+             Attachment:  CollegeExploration 
                    -Findings (2 jobs in last 7 days)
 
-Certifications
-     Attachment: Certificates     
-Certificates and Degrees
+     Certifications
+             Attachment: Certificates 
+             
+CERTIFICATES AND DEGREES
 
-Co-ops / Internships
+CO-OPS / INTERNSHIPS
 
-Industry Associations / Student Organizations
+INDUSTRY ASSOCIATIONS / STUDENT ORGANIZATIONS
 
+            The mission of the Collegiate Cyber Defense Competition (CCDC) system is to provide institutions with 
+            an information assurance or computer security curriculum a controlled, competitive environment to assess 
+            their student's depth of understanding and operational competency in managing the challenges inherent 
+            in protecting a corporate network infrastructure and business information systems. The CCDC Events are designed to:
+            Build a meaningful mechanism by which institutions of higher education may evaluate their programs; Provide an 
+            educational venue in which students are able to apply the theory and practical skills they have learned in their 
+            course work; Foster a spirit of teamwork, ethical behavior, and effective communication both within and across teams
+            Create interest and awareness among participating institutions and students
+            
 CONCLUSIONS
 
-Include your professional conclusion here...
+ The lab helped me learb to define software types and practice working with virtualization and Python. I created a virtual  
+computer in NDC NEtLab+. I learned to learn to define software; describe the two primary categories of software;describe 
+the role ERP software plays in an organization; describe cloud computing and its advantages and disadvantages for use 
+in an organization; and define the term open-source and identify its primary characteristics. And finally xplore careers 
+in information technology as well as co-ops, internships, certificates, certifications, industry association and student organization
+membership at TRi-C.
