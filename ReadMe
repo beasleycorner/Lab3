@@ -42,6 +42,15 @@ Software
 Virtualization
 
 Python
+      i. What is meant by the "pseudo-code nature of Python?" (Google "pseudo-code" to gain better insight) 
+       Pseudocode is a method of planning which enables the programmer to plan without worrying about syntax.
+ 
+
+     ii What is an interpreted language vs. a compiled language?
+        Programs written with for example C, Perl, or Java makes it easy for people to communicate with one another, 
+        because a computer only understands numbers, you need a translator to communicate, and that's what compilers do.
+        The difference between an interpreted is in the process. An interpreter produces a result from a program, 
+        and a compiler produces a program written in assembly language. 
 
 Career Exploration
 
